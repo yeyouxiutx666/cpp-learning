@@ -80,7 +80,7 @@ arr [start] = arr [end] ;
 start++ ; end--;  
 再加一个if判断 start < end  
 
-[冒泡排序代码](./bullbesort.cpp)
+[冒泡排序代码](./bubblesort.cpp)
 
 ### 二维数组  
 #### 定义  
