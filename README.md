@@ -280,7 +280,7 @@ int &b = a ;
 int c = 20 ;  
 b = c ;  //这是赋值操作，让abc都成为20，若&b=c;会报错  
 #### 引用传递  
-int main(%a,&b)  
+int main(&a,&b)  
 {  
       code;  
 };  
